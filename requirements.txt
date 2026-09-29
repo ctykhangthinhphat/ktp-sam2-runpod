@@ -1,0 +1,6 @@
+runpod>=1.7.0
+numpy>=1.24.4
+pillow>=9.4.0
+huggingface_hub>=0.24
+opencv-python-headless>=4.9
+git+https://github.com/facebookresearch/sam2.git
